@@ -1,0 +1,2 @@
+rootProject.name = "Lab3_Test2_Java"
+include ':app'
